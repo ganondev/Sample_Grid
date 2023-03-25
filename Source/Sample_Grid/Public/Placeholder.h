@@ -3,8 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "GridInterface.h"
 #include "GameFramework/Actor.h"
-#include "Interfaces/GridPawnInterface.h"
 #include "Placeholder.generated.h"
 
 UCLASS()

@@ -11,4 +11,7 @@ Build
 *.db
 /docs/sphinx-build-result
 /.vs
-Import
+ImportECHO is on.
+.idea/ 
+ECHO is on.
+*.user 

@@ -8,7 +8,7 @@ public class Sample_Grid : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GridRuntime"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "GridRuntime" });
 
